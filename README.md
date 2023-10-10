@@ -1,2 +1,2 @@
-# Portfolio.github.io
+# Portfolio
 I am a web developer and a student pursuing a Bachelor's degree in Computer Application. As a fresher in the field, I am enthusiastic about learning and programming. Outside of my academic and professional life, I have a creative side; I love taking photographs and creating art. Additionally, I have a strong passion for travel and exploring new places. My diverse interests and skills reflect my well-rounded personality.
